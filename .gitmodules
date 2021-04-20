@@ -1,0 +1,9 @@
+[submodule "covid-policy-tracker"]
+	path = covid-policy-tracker
+	url = https://github.com/OxCGRT/covid-policy-tracker
+[submodule "covid-19-data"]
+	path = covid-19-data
+	url = https://github.com/owid/covid-19-data
+[submodule "covid-variants"]
+	path = covid-variants
+	url = https://github.com/USATODAY/covid-variants
